@@ -1,9 +1,5 @@
 # Smart-Clinic-dz
 موقع لحجز المواعيد
-# Smart Clinic DZ — ملف HTML المعدّل
-
-هذا الملف يحتوي على كود صفحة الموقع بصيغة HTML. لاستخدامه على الموقع، احفظ الكود كملف `index.html`.
-
 ```html
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
